@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "vOXkxqzWB8B8hmzJkqDBTODYlFl8yqy9rLPBNaAx3ItwS0k5N3nsXQtOdM0kBx4ZlS+3DbjOH3bsx/8kb2XMZw==",
+  "success": true,
+  "projectFilePath": "C:\\C#\\ASP.NET\\MicroS\\HackTest\\src\\HackTest.Domain\\HackTest.Domain.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://company-squid:3128'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

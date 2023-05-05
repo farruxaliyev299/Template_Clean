@@ -1,0 +1,9 @@
+C:\C#\ASP.NET\MicroS\HackTest\IdentityServer\HackTest.IdentityServer\obj\Debug\netcoreapp3.1\HackTest.IdentityServer.csproj.AssemblyReference.cache
+C:\C#\ASP.NET\MicroS\HackTest\IdentityServer\HackTest.IdentityServer\obj\Debug\netcoreapp3.1\HackTest.IdentityServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\ASP.NET\MicroS\HackTest\IdentityServer\HackTest.IdentityServer\obj\Debug\netcoreapp3.1\HackTest.IdentityServer.AssemblyInfoInputs.cache
+C:\C#\ASP.NET\MicroS\HackTest\IdentityServer\HackTest.IdentityServer\obj\Debug\netcoreapp3.1\HackTest.IdentityServer.AssemblyInfo.cs
+C:\C#\ASP.NET\MicroS\HackTest\IdentityServer\HackTest.IdentityServer\obj\Debug\netcoreapp3.1\HackTest.IdentityServer.csproj.CoreCompileInputs.cache
+C:\C#\ASP.NET\MicroS\HackTest\IdentityServer\HackTest.IdentityServer\obj\Debug\netcoreapp3.1\HackTest.IdentityServer.MvcApplicationPartsAssemblyInfo.cs
+C:\C#\ASP.NET\MicroS\HackTest\IdentityServer\HackTest.IdentityServer\obj\Debug\netcoreapp3.1\HackTest.IdentityServer.MvcApplicationPartsAssemblyInfo.cache
+C:\C#\ASP.NET\MicroS\HackTest\IdentityServer\HackTest.IdentityServer\obj\Debug\netcoreapp3.1\HackTest.IdentityServer.RazorAssemblyInfo.cache
+C:\C#\ASP.NET\MicroS\HackTest\IdentityServer\HackTest.IdentityServer\obj\Debug\netcoreapp3.1\HackTest.IdentityServer.RazorAssemblyInfo.cs
