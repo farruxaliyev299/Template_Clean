@@ -2,6 +2,7 @@
 // Licensed under the Apache License, Version 2.0. See LICENSE in the project root for license information.
 
 
+using HackTest.IdentityServer.Initialize;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -40,6 +41,11 @@ namespace HackTest.IdentityServer
 
                 var host = CreateHostBuilder(args).Build();
 
+                using(var scoped = host.Services.CreateScope())
+                {
+                    var dbInitializer = scoped.ServiceProvider.GetRequiredService<IDbInitialize>();
+                    dbInitializer.Initialize();
+                }
 
                 return 0;
             }
