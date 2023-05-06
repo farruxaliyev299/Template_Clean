@@ -81,3 +81,7 @@ C:\C#\ASP.NET\MicroS\HackTest\src\HackTest.API\bin\Debug\net7.0\HackTest.Infrast
 C:\C#\ASP.NET\MicroS\HackTest\src\HackTest.API\bin\Debug\net7.0\HackTest.Application.pdb
 C:\C#\ASP.NET\MicroS\HackTest\src\HackTest.API\bin\Debug\net7.0\HackTest.Domain.pdb
 C:\C#\ASP.NET\MicroS\HackTest\src\HackTest.API\bin\Debug\net7.0\HackTest.Infrastructure.pdb
+C:\C#\ASP.NET\MicroS\HackTest\src\HackTest.API\bin\Debug\net7.0\MediatR.dll
+C:\C#\ASP.NET\MicroS\HackTest\src\HackTest.API\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\C#\ASP.NET\MicroS\HackTest\src\HackTest.API\bin\Debug\net7.0\AutoMapper.dll
+C:\C#\ASP.NET\MicroS\HackTest\src\HackTest.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
